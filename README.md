@@ -1,5 +1,4 @@
 ### Hi there 👋
-🥺 👉👈 Please give me a job
 <!--
 **alexn400/alexn400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
