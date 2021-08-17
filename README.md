@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+I ❤ Typescript
 <!--
 **alexn400/alexn400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Find me on  
+[🏀 Dribbble](https://dribbble.com/halcyon400)  
+[💼 Linkedin](https://www.linkedin.com/in/alexn400/)  
+[🌐 Portfolio Site](https://alexn.me)  
