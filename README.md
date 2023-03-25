@@ -1,4 +1,4 @@
-### Hey there👋
+### Hey 👋
 
 I ❤ Typescript.
 
