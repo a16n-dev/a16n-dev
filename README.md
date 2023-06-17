@@ -2,7 +2,7 @@
 
 I ❤ Typescript.
 
-I'm currently working on EasyRent, a platform that makes it easy to find a place to live in Sydney for 1-3 months. [Go check it out!](https://easyrent.net.au)
+I'm currently working on EasyRent, a platform that makes it easy to find a place to live in ~~Wellington~~ ~~Sydney~~ NYC for 1-3 months. [Go check it out!](https://easyrent.net.au)
 <!--
 **alexn400/alexn400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Find me on  
+Im on  
 [🏀 Dribbble](https://dribbble.com/halcyon400)  
 [💼 Linkedin](https://www.linkedin.com/in/alexn400/)  
 [🌐 Portfolio Site](https://alexn.me)  
