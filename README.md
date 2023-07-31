@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 Im on  
 [🏀 Dribbble](https://dribbble.com/halcyon400)  
 [💼 Linkedin](https://www.linkedin.com/in/alexn400/)  
-[🌐 Portfolio Site](https://alexn.me)  
+[🌐 Personal Site](https://alexn.dev)  
