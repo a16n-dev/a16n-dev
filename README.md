@@ -1,6 +1,6 @@
 ### Hey 
 
-I  Typescript.
+I ❤️ Typescript.
 
 I'm currently working on Kiki, a platform that makes it easy to find a place to live in ~~Wellington~~ ~~Sydney~~ NYC for 1-3 months. [Go check it out!](https://easyrent.net.au)
 <!--
