@@ -21,8 +21,3 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 -  Fun fact: ...
 -->
-
-Im on  
-[Dribbble](https://dribbble.com/halcyon400)  
-[Linkedin](https://www.linkedin.com/in/alexn400/)  
-[Personal Site](https://alexn.dev)  
