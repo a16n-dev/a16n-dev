@@ -1,6 +1,6 @@
 ### Heya!
 
-I was formerly the founding engineer @ [Kiki.club](https://kiki.club), and I'm now building a digital planning tool for creatives @ [BlockFlow](https://blockflow.so)! 
+I'm the founding engineer @ [Kiki.club](https://kiki.club)!
 
 I also maintain a few open source projects: 
 * [`react-dialog-async`](https://www.npmjs.com/package/react-dialog-async)
