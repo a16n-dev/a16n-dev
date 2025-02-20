@@ -1,23 +1,10 @@
-### Heya!
+Heya 👋
 
-I'm the founding engineer @ [Kiki.club](https://kiki.club)!
+I'm cooking up something special @ [Clove](https://clove.kitchen), come check it out! 
+I was previously the founding engineer at [Kiki.club](https://kiki.club)
 
 I also maintain a few open source projects: 
-* [`react-dialog-async`](https://www.npmjs.com/package/react-dialog-async)
+* [`react-dialog-async`](https://react-dialog-async.a16n.dev)
 * [`lucide-mui`](https://www.npmjs.com/package/lucide-mui)
 
-Occasionally [I write articles](https://medium.com/@a16n.dev) about startups and interesting tech things I come across
-
-<!--
-**alexn400/alexn400** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
--  I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
+Occasionally [I write articles](https://medium.com/@a16n.dev) about startups and interesting tech things.
